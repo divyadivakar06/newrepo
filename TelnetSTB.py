@@ -1,3 +1,4 @@
+#file to connect stb using telnet
 import base64
 import telnetlib
 
